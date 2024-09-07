@@ -1,0 +1,27 @@
+Preguntas de laboratorio:
+
+-¿Cuál es el punto más débil de PGP?
+Gestión de Claves: Riesgo de ataques si las claves no se verifican correctamente.
+Seguridad de Claves Privadas: Compromiso si no están bien protegidas.
+Implementaciones: Vulnerabilidades en el software.
+Usabilidad: Errores humanos por la complejidad.
+Metadatos: Información sobre comunicaciones no cifrada.
+
+-¿Cuándo es conveniente utilizar solamente cifrado simétrico?
+Velocidad: Necesitas procesamiento rápido.
+Datos Grandes: Manejas grandes volúmenes de datos.
+Entorno Seguro: Puedes compartir claves de manera segura.
+Recursos Limitados: El entorno tiene capacidad limitada.
+Seguridad Moderada: La protección de claves es adecuada.
+
+
+-¿En qué consiste el ciclo de vida del desarrollo de software seguro (etapa por etapa)?
+Planificación: Definir requisitos de seguridad y evaluar riesgos.
+Diseño: Crear una arquitectura segura y modelar amenazas.
+Desarrollo: Codificar siguiendo prácticas de seguridad y revisar el código.
+Pruebas: Realizar pruebas de seguridad y corregir vulnerabilidades.
+Despliegue: Configurar de manera segura y gestionar claves.
+Mantenimiento: Aplicar actualizaciones de seguridad y monitorear el software.
+Desactivación: Eliminar el software de manera segura y revisar el proceso.
+
+
